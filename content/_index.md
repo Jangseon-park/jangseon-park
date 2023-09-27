@@ -59,8 +59,10 @@ sections:
     buttons:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: Memory System
+      tag: Memory System
+    - name: Storage System
+      tag: Storage System
     - name: Other
       tag: Demo
     default_button_index: 0
