@@ -10,27 +10,37 @@ sections:
   content:
     date_format: Jan 2006
     items:
-    - company: GenCoin
-      company_logo: org-gc
+    - company: Samsung Electronics
+      company_logo: samsung
       company_url: ""
       date_end: ""
-      date_start: "2021-01-01"
+      date_start: "2022-03-01"
       description: |2-
           Responsibilities include:
-          * Analysing
-          * Modelling
-          * Deploying
-      location: California
-      title: CEO
-    - company: University X
-      company_logo: org-x
+          * SSD Firmaware Architecture
+          * DRAM/NAND Operation Optimization
+      location: South Korea
+      title: Senior Software Development Engineer
+    - company: Samsung Electronics
+      company_logo: samsung
       company_url: ""
-      date_end: "2020-12-31"
-      date_start: "2016-01-01"
-      description: Taught electronic engineering and researched semiconductor physics.
-      location: California
-      title: Professor of Semiconductor Physics
-    title: Experience
+      date_end: "2022-02-28"
+      date_start: "2017-03-01"
+      description: |2-
+          Responsibilities include:
+          * DRAM Test Methods & SW Development
+          * DRAM Defense Methods & SW Development
+      location: South Korea
+      title: Software Development Engineer
+    - company: Samsung Electronics
+      company_logo: samsung
+      company_url: ""
+      date_end: "2016-08-14"
+      date_start: "2016-06-01"
+      description: Verification HW Acceleator with FPGA
+      location: South Korea
+      title: Solution Development Internship
+    title: Work Experiences
   design:
     columns: "2"
 - block: collection
