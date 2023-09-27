@@ -23,17 +23,12 @@ organizations:
   url: https://ucsd.edu/
 role: PhD Student
 social:
-- icon: envelope
-  icon_pack: fas
-  link: /#contact
-- display:
-    header: true
 - icon: github
   icon_pack: fab
   link: https://github.com/Jangseon-park
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/park-jangseon-105001161/
 - icon: cv
   icon_pack: ai
   link: uploads/JangseonPark_CV.pdf
