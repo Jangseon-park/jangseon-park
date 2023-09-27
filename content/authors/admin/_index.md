@@ -1,56 +1,48 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include memory & storage system.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
-first_name: Alice
+  - course: PhD in Computer Science and Engneering
+    institution: The University of California, SanDiego
+    year: 2023-Current
+  - course: MEng in Electrical Engineering
+    institution: Korea Advanced Institute of Science and Technology
+    year: 2015-2017
+  - course: BSc in Electrical Engineering
+    institution: Kwangwoon University
+    year: 2009-2015
+email: "jap036@ucsd.edu"
+first_name: Jangseon
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Wu
+- In Memory Computing
+- Near Storage Computing (Computational Storage Device)
+last_name: Park
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: The University of California SanDiego
+  url: https://ucsd.edu/
+role: PhD Student
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
 - display:
     header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Jangseon-park
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: uploads/JangseonPark_CV.pdf
 status:
   icon: ☕️
 superuser: true
-title: Alice Wu 吳恩達
+title: Jangseon Park
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi everyone, welcome to visit my web!
+I am a Ph.D. graduate student at the University of California, SanDiego in Computer Science and Engineering Department. I started my research journey to explore next generation memory system & storage system in 2023 fall. I fortunately have been working with Prof. Tajana Rosing. If you have any questions or needs, please reach out to me!
 {style="text-align: justify;"}
