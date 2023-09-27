@@ -63,6 +63,22 @@ sections:
     flip_alt_rows: false
     view: showcase
   id: projects
+- block: contact
+  content:
+    address:
+      city: SanDiego
+      country: United States
+      country_code: US
+      postcode: "92093"
+      region: CA
+      street: 9500 Gilman Drive
+    autolink: true
+    contact_links:
+    email: jap036@ucsd.edu
+    title: Contact Info
+  design:
+    columns: "2"
+  id: contact
 title: null
 type: landing
 ---
