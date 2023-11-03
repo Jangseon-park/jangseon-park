@@ -5,7 +5,7 @@ education:
   - course: PhD in Computer Science and Engneering
     institution: The University of California, SanDiego
     year: 2023-Current
-  - course: MEng in Electrical Engineering
+  - course: MSc in Electrical Engineering
     institution: Korea Advanced Institute of Science and Technology
     year: 2015-2017
   - course: BSc in Electrical Engineering
